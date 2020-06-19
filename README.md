@@ -1,2 +1,2 @@
-# shaps
-Application that prints shaps
+# shapes
+Application that prints shapes
